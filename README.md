@@ -1,67 +1,66 @@
 <h1 align="center">Hi 👋, I'm Aovejeet Saha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things&center=true&width=600&height=45">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aovejeetsaha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aovejeetsaha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-
+---
 
 ## 🧠 About Me
 
-- 🎓 CSE Undergraduate Student at **BRAC University**
-- 💻 Passionate about **Software Development & Web Applications**
-- 🧠 Interested in **Machine Learning and Intelligent Systems**
-- 📚 Working on my thesis  
+* 🎓 **CSE Undergraduate Student** at BRAC University
+* 💻 Passionate about **Software Development & Web Applications**
+* 🧠 Interested in **Machine Learning and Intelligent Systems**
+* 📚 Currently working on my thesis
   **Lecture Notes Summarization and Note Generator**
-- 🚀 Aspiring **Software Engineer**
+* 🚀 Aspiring **Software Engineer**
+* 🌱 Always learning new technologies and development practices
 
-
+---
 
 ## 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,php,laravel,django,mysql,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,php,laravel,django,mysql,html,css,git,github,linux,vscode,tensorflow,pytorch" />
 
 </p>
 
+---
 
-
-## 📊 GitHub Stats
+## 📈 Coding Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aovejeetsaha&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aovejeetsaha&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aovejeetsaha&theme=tokyo-night"/>
 
 </p>
 
+---
 
-
-## 🔥 GitHub Streak
+## 🚀 Portfolio
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=aovejeetsaha&theme=tokyonight"/>
+🌐 Personal Developer Portfolio — **Coming Soon**
 
 </p>
 
-
+---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/aovejeetsaha/aovejeetsaha/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
-
+---
 
 ## 🌐 Connect With Me
 
@@ -81,6 +80,6 @@
 
 </p>
 
-
+---
 
 ⭐ *Always open to learning new technologies and collaborating on interesting software projects.*
