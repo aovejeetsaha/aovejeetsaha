@@ -1,74 +1,85 @@
-# Hi, I'm Aovejeet Saha 👋
+<h1 align="center">Hi 👋, I'm Aovejeet Saha</h1>
 
-🎓 CSE Undergraduate Student at **BRAC University**  
-💻 Aspiring **Software Engineer** | Full Stack Developer | ML Enthusiast  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
-I am passionate about building practical software solutions, modern web applications, and intelligent systems.  
-Currently, I am focusing on **full stack development, backend engineering, and machine learning based academic tools**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aovejeetsaha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
----
 
-## About Me
 
-- 🎓 Studying **Computer Science and Engineering** at BRAC University
-- 🌱 Currently improving my skills in **software engineering, full stack development, and machine learning**
-- 🛠 Working with **Python, Django, Laravel, React, JavaScript, and MySQL**
-- 📚 Working on my thesis: **Lecture Notes Summarization and Note Generator**
-- 🎯 Interested in building scalable, clean, and user-focused digital products
+## 🧠 About Me
 
----
+- 🎓 CSE Undergraduate Student at **BRAC University**
+- 💻 Passionate about **Software Development & Web Applications**
+- 🧠 Interested in **Machine Learning and Intelligent Systems**
+- 📚 Working on my thesis  
+  **Lecture Notes Summarization and Note Generator**
+- 🚀 Aspiring **Software Engineer**
 
-## Tech Stack
 
-### Languages
-- Python
-- JavaScript
-- PHP
-- C++
 
-### Frameworks & Libraries
-- React
-- Django
-- Laravel
-- Tailwind CSS
+## 🛠 Tech Stack
 
-### Database
-- MySQL
-- PostgreSQL
+<p align="center">
 
-### Tools
-- Git
-- GitHub
-- Linux
-- Vercel
+<img src="https://skillicons.dev/icons?i=python,js,react,php,laravel,django,mysql,git,github,linux,vscode" />
 
----
+</p>
 
-## Current Focus
 
-- Full Stack Web Development
-- Backend Development
-- Machine Learning Based Academic Solutions
-- Building a strong software engineering portfolio
 
----
+## 📊 GitHub Stats
 
-## Featured Interests
+<p align="center">
 
-- Web Application Development
-- Software Engineering
-- Database Driven Systems
-- Academic Research Tools
-- Problem Solving and Clean UI Development
+<img src="https://github-readme-stats.vercel.app/api?username=aovejeetsaha&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aovejeetsaha&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=aovejeetsaha&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## Connect With Me
+## 🐍 Contribution Snake
 
-- 📧 Email: **aovejeets@gmail.com**
-- 💼 LinkedIn: **[Aovejeet Saha](https://www.linkedin.com/in/aovejeetsaha-620074228)**
-- 🐙 GitHub: **[aovejeetsaha](https://github.com/aovejeetsaha)**
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:aovejeets@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aovejeetsaha-620074228">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aovejeetsaha">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ I am always open to learning, collaboration, and interesting development opportunities.
+⭐ *Always open to learning new technologies and collaborating on interesting software projects.*
