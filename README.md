@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aovejeet Saha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things&center=true&width=600&height=45">
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,php,laravel,django,mysql,html,css,git,github,linux,vscode,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,php,laravel,django,mysql,html,css,git,github,linux,vscode,tensorflow,pytorch,numpy," />
 
 </p>
 
@@ -83,3 +83,4 @@
 ---
 
 ⭐ *Always open to learning new technologies and collaborating on interesting software projects.*
+⭐ *Thank you for visit my profile.*
