@@ -80,7 +80,5 @@
 
 </p>
 
----
 
-⭐ *Always open to learning new technologies and collaborating on interesting software projects.*
 ⭐ *Thank you for visit my profile.*
