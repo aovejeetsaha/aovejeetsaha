@@ -42,15 +42,6 @@
 
 ---
 
-## 🚀 Portfolio
-
-<p align="center">
-
-🌐 Personal Developer Portfolio — **Coming Soon**
-
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
