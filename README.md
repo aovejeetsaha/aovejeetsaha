@@ -15,8 +15,6 @@
 * 🎓 **CSE Undergraduate Student** at BRAC University
 * 💻 Passionate about **Software Development & Web Applications**
 * 🧠 Interested in **Machine Learning and Intelligent Systems**
-* 📚 Currently working on my thesis
-  **Lecture Notes Summarization and Note Generator**
 * 🚀 Aspiring **Software Engineer**
 * 🌱 Always learning new technologies and development practices
 
